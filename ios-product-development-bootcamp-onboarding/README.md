@@ -72,12 +72,17 @@ I designed and developed the course structure, learning objectives, instructiona
 
 ## Project Assets
 
+## Project Assets
+
 - [Course Design Document](./documentation/course-design-document.md)
 - [Learning Objectives](./documentation/learning-objectives.md)
 - [Course Outline](./documentation/course-outline.md)
 - [Storyboard](./documentation/storyboard.md)
+- [Graphic Design](./documentation/graphic-design.md)
+- [Articulate Storyline Development](./documentation/storyline-development.md)
+- [SCORM Publishing](./documentation/scorm-publishing.md)
 - [Portfolio Case Study](./documentation/portfolio-case-study.md)
-
+  
 ## Screenshots
 
 Add screenshots of the course title screen, interactive activities, knowledge checks, and final quiz results in the `screenshots` folder.
