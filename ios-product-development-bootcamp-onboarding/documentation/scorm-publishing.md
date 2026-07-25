@@ -14,16 +14,6 @@ The course was prepared for Learning Management System (LMS) delivery as a SCORM
 - **Publishing format:** SCORM package
 - **Delivery method:** LMS upload
 
-## Publishing Settings
-
-Update the fields below with the exact options selected when publishing your Storyline course.
-
-- **SCORM standard:** SCORM [1.2 / 2004]
-- **Reporting option:** [Passed/Incomplete, Passed/Failed, or Complete/Incomplete]
-- **Tracking method:** Final quiz results slide
-- **Passing score:** 80%
-- **Course title:** Kickstart to iOS Product Development Journey: Bootcamp Onboarding Experience
-
 ## Completion Tracking
 
 Learner completion is based on the final quiz.
