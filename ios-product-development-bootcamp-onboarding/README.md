@@ -85,7 +85,12 @@ I designed and developed the course structure, learning objectives, instructiona
   
 ## Screenshots
 
-Add screenshots of the course title screen, interactive activities, knowledge checks, and final quiz results in the `screenshots` folder.
+## Course Screenshots
+
+![Course landing page](./screenshots/course-landing-page.png)
+![Interactive learning activity](./screenshots/interactive-activity.png)
+![Knowledge check](./screenshots/knowledge-check.png)
+![Final quiz](./screenshots/final-quiz.png)
 
 ## SCORM Publishing
 
