@@ -29,7 +29,7 @@ My work combines instructional design principles with interactive e-learning dev
 
 | Project | Description | Tools | Live Course |
 |---|---|---|---|
-| [iOS Product Development Bootcamp Onboarding](./ios-bootcamp-onboarding/) | A seven-lesson interactive onboarding course that prepares undergraduate students for an iOS product-development bootcamp. | Articulate Storyline 360, Articulate Review 360, Keynote | [View course](https://6a644c2213e47707e2227e4f--iridescent-narwhal-e461d6.netlify.app) |
+| [iOS Product Development Bootcamp Onboarding](./ios-bootcamp-onboarding/) | A seven-lesson interactive onboarding course that prepares undergraduate students for an iOS product-development bootcamp. | Articulate Storyline 360, Articulate Review 360, Keynote | [View course](ios-bootcamp-journey.netlify.app) |
 
 ## What Each Project Includes
 
