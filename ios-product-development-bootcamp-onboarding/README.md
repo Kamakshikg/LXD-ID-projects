@@ -4,7 +4,7 @@ An interactive seven-lesson onboarding course that prepares undergraduate studen
 
 ## Live Course
 
-[Launch the course]([ios-bootcamp-journey.netlify.app](https://ios-bootcamp-journey.netlify.app))
+[Launch the course](https://ios-bootcamp-journey.netlify.app)
 
 ## Project Overview
 
